@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to the Lord of the Rings Open Source Project!
+
+## !!Everything here is a work in progress!!
 
 You can use the [editor on GitHub](https://github.com/Oiyeoi/LotROPS_Project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
