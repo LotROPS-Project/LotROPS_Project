@@ -483,5 +483,11 @@
 			"Name": "Water",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Linux",
+		"LinuxAArch64",
+		"Mac",
+		"Windows"
 	]
 }
