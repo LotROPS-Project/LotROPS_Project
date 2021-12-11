@@ -482,6 +482,10 @@
 		{
 			"Name": "Water",
 			"Enabled": true
+		},
+		{
+			"Name": "FSR",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
