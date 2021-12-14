@@ -485,7 +485,7 @@
 		},
 		{
 			"Name": "FSR",
-			"Enabled": true
+			"Enabled": false
 		}
 	],
 	"TargetPlatforms": [
