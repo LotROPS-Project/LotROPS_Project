@@ -80,6 +80,10 @@ DerivedDataCache/*
 
 Content/StarterContent/*
 
+# Ignore plugin folder for now
+
+plugins/
+
 VSCode Files
 /.vscode/*
 LotROPS_Project.code-workspace
