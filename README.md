@@ -2,6 +2,9 @@
 
 Powered by [UnrealEngine 5](https://www.unrealengine.com/unreal-engine-5).
 
+#### Repositories: 
+[Github](github.com/LotROPS-Project/LotROPS_Project/)(_primary_)|[Gitlab](gitlab.com/Cherio-ol-Chap/LotROPS_Project/)(_mirror_)
+
 # Disclaimer:
 This game is based on the [Lord of the Rings](https://wikipedia.org/wiki/The_Lord_of_the_Rings) books. All content is either inspired from J.R.R.Tolkien's Lord of the Rings books or It's made by us.
 All rights belong to their respective owners when not applicable to our [GPLv3 license](https://www.gnu.org/licenses/gpl-3.0.en.html).
