@@ -1,6 +1,6 @@
 # The Lord of the Rings Open Source Project
 
-Powered by [UnrealEngine 5](https://www.unrealengine.com/unreal-engine-5)EA2 and currently being ported to 5.0.1.
+Powered by [UnrealEngine 5](https://www.unrealengine.com/unreal-engine-5)EA2 and currently being ported to 5.0.2.
 
 #### Source Code Repositories: 
 [Github](https://github.com/LotROPS-Project/LotROPS_Project/) (_primary_) | [Gitlab](https://gitlab.com/Cherio-ol-Chap/LotROPS_Project/) (_mirror_)
